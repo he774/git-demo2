@@ -9,6 +9,7 @@ public class BootDemoApplication {
     public static void main(String[] args) {
         System.out.println("git second");
         System.out.println("git second");
+        System.out.println("hot fix ");
         SpringApplication.run(BootDemoApplication.class, args);
     }
 
