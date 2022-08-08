@@ -12,6 +12,7 @@ public class BootDemoApplication {
         System.out.println("hot fix ");
         System.out.println("master test");
         System.out.println("hot fix  2");
+        System.out.println("push test");
         SpringApplication.run(BootDemoApplication.class, args);
     }
 
